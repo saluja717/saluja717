@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-18380
-Fork on GitHub
-5459
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Manpreet Singh Saluja</h1>
 <h3 align="center">A passionate developer from India</h3>
 
